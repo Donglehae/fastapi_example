@@ -12,10 +12,10 @@ greenlet==1.1.2
 h11==0.13.0
 idna==3.3
 Mako==1.2.1
-mariadb==1.1.2
-MarkupSafe==2.1.1
 mysql-connector==2.2.9
 mysql-connector-python==8.0.29
+mariadb==1.1.2
+MarkupSafe==2.1.1
 passlib==1.7.4
 pip==22.1.2
 protobuf==4.21.2
