@@ -6,6 +6,7 @@ cryptography==37.0.4
 dnspython==2.2.1
 ecdsa==0.17.0
 email-validator==1.2.1
+ez-setup==0.9
 fastapi==0.78.0
 greenlet==1.1.2
 h11==0.13.0
@@ -13,7 +14,9 @@ idna==3.3
 Mako==1.2.1
 mariadb==1.1.2
 MarkupSafe==2.1.1
+mysql-connector-python==8.0.29
 passlib==1.7.4
+protobuf==4.21.2
 pyasn1==0.4.8
 pycparser==2.21
 pydantic==1.9.1
